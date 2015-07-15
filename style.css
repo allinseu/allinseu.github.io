@@ -473,7 +473,9 @@ nav a{
 .main{
 	margin: 0 0 0 195px;
 }
-
+.member{
+	
+}
 @media screen and (max-width:960px){
 	nav{
 		height: 60px;
